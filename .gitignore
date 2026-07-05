@@ -1,0 +1,22 @@
+# Local .terraform directories and provider binaries
+**/.terraform/*
+
+# Terraform state files (may contain secrets — never commit)
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Variable files that may hold secrets
+*.tfvars
+*.tfvars.json
+
+# CLI config and plan output files
+.terraformrc
+terraform.rc
+*.tfplan
+
+# macOS
+.DS_Store
