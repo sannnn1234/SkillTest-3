@@ -123,7 +123,10 @@ curl http://$(terraform output -raw public_ip)
 
 ##  Screenshots (Optional)
 
-*(Add screenshots here if required by the assignment)*
+![Local Setup](https://raw.githubusercontent.com/sannnn1234/SkillTest-3/main/screenshots/url.png)
+![Local Setup](https://raw.githubusercontent.com/sannnn1234/SkillTest-3/main/screenshots/apply.png)
+![Local Setup](https://raw.githubusercontent.com/sannnn1234/SkillTest-3/main/screenshots/destory.png) 
+![Local Setup](https://raw.githubusercontent.com/sannnn1234/SkillTest-3/main/screenshots/destoryed.png)
 
 ---
 
