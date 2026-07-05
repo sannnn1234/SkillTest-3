@@ -48,21 +48,21 @@ Common overrides are listed below:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-### 1️⃣ Initialize Terraform
+### 1️ Initialize Terraform
 
 ```bash
 terraform init
 ```
 
-### 2️⃣ Preview the changes
+### 2️ Preview the changes
 
 ```bash
 terraform plan
 ```
 
-### 3️⃣ Create the infrastructure
+### 3️ Create the infrastructure
 
 ```bash
 terraform apply
@@ -70,7 +70,7 @@ terraform apply
 
 Type `yes` when prompted.
 
-### 4️⃣ Destroy the infrastructure (cleanup)
+### 4️ Destroy the infrastructure (cleanup)
 
 ```bash
 terraform destroy
@@ -135,4 +135,4 @@ Running:
 terraform destroy
 ```
 
-Just tell me 👍
+
